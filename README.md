@@ -83,6 +83,14 @@
 
 ---
 
+### 🤝 Contributions
+
+Here are some repositories I've contributed to:
+
+- 🔧 [stakpak/devx](https://github.com/stakpak/devx-catalog) – DevX developer experience toolkit
+
+---
+
 ### 📫 Contact Me
 
 - 📧 **Email:** omarahmed9113@gmail.com  
