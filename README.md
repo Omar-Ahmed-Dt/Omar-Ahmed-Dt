@@ -2,7 +2,7 @@
 <h3 align="center">DevOps Engineer | Cloud | IAC | CI/CD | Kubernetes | GitOps | Observability</h3>
 
 <p align="center">
-  <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2023/01/05114244/DevOps-Challenges.gif" width="500" alt="DevOps gif" />
+  <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2023/01/05114244/DevOps-Challenges.gif" width="800" alt="DevOps gif" />
 </p>
 
 <p align="center">
