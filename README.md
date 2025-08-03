@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Omar Al-shishiny</h1>
 <h3 align="center">DevOps Engineer | Cloud | IAC | CI/CD | Kubernetes | GitOps | Observability</h3>
 
 <p align="center">
@@ -35,32 +35,32 @@
 
 <p align="center">
   <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" title="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" title="GCP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" title="GCP"/>
   
   <!-- Containers & Infra -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" title="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" title="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" title="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="50" title="Terraform"/>
 
   <!-- Programming -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" title="Golang"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" title="Golang"/>
   
   <!-- OS & VCS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" title="Git"/>
 
   <!-- Monitoring & CI/CD -->
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/prometheus.svg" height="40" title="Prometheus"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/grafana.svg" height="40" title="Grafana"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/opentelemetry.svg" height="40" title="OpenTelemetry"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jenkins.svg" height="40" title="Jenkins"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-actions.svg" height="40" title="GitHub Actions"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/prometheus.svg" height="50" title="Prometheus"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/grafana.svg" height="50" title="Grafana"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/opentelemetry.svg" height="50" title="OpenTelemetry"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jenkins.svg" height="50" title="Jenkins"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-actions.svg" height="50" title="GitHub Actions"/>
   
   <!-- GitOps, Mesh -->
-  <img src="https://raw.githubusercontent.com/argoproj/argo-cd/master/docs/assets/logo.png" height="40" title="Argo CD"/>
-  <img src="https://istio.io/latest/favicons/android-192x192.png" height="40" title="Istio"/>
+  <img src="https://raw.githubusercontent.com/argoproj/argo-cd/master/docs/assets/logo.png" height="50" title="Argo CD"/>
+  <img src="https://istio.io/latest/favicons/android-192x192.png" height="50" title="Istio"/>
 
 </p>
 
