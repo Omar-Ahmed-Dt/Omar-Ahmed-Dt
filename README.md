@@ -62,6 +62,13 @@
 
 ---
 
+### 🔖 Certifications
+
+- 🏅 **Certified Kubernetes Administrator (CKA)**  
+- 🏅 **HashiCorp Certified: Terraform Associate**
+
+---
+
 ### 📝 Notable Projects & Contributions
 
 - 🚀 Deployed highly available Kubernetes clusters using Terraform on AWS & GCP  
