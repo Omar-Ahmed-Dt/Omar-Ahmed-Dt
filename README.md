@@ -87,7 +87,7 @@
 
 Here are some repositories I've contributed to:
 
-- 🔧 [stakpak/devx](https://github.com/stakpak/devx-catalog) – DevX developer experience toolkit
+- 🔧 [stakpak/devx](https://github.com/stakpak/devx-catalog) – A tool for generating, validating & sharing all your configurations, powered by CUE. Works with Kubernetes, Terraform, Compose, GitHub actions and much more
 
 ---
 
