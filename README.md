@@ -2,6 +2,10 @@
 <h3 align="center">DevOps Engineer | Cloud | IAC | CI/CD | Kubernetes | GitOps | Observability</h3>
 
 <p align="center">
+  <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2023/01/05114244/DevOps-Challenges.gif" width="500" alt="DevOps gif" />
+</p>
+
+<p align="center">
   <a href="mailto:omarahmed9113@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
