@@ -22,9 +22,9 @@
 
 - ☁️ **Cloud Platforms:** AWS | GCP  
 - 🐳 **Containerization:** Docker | Kubernetes | Helm  
-- ⚙️ **CI/CD Pipelines:** GitHub Actions | Jenkins | Argo CD  
-- 🛠️ **Infrastructure as Code:** Terraform | GitOps  
-- 📈 **Observability & Monitoring:** Prometheus | Grafana | OpenTelemetry | EFK  
+- ⚙️ **CI/CD Pipelines:** GitHub Actions | Jenkins | ArgoCD
+- 🛠️ **Infrastructure as Code:** Terraform
+- 📈 **Observability & Monitoring:** Prometheus | Grafana | EFK | OpenTelemetry
 - 🧰 **Scripting & Automation:** Python | Golang  
 - 🧠 **Networking & OS:** Linux | Advanced Networking  
 - 🔌 **Service Mesh:** Istio
