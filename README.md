@@ -20,13 +20,13 @@
 
 🔧 Passionate **DevOps Engineer** with hands-on experience in:
 
-- ☁️ **Cloud Platforms:** AWS | GCP  
-- 🐳 **Containerization:** Docker | Kubernetes | Helm  
+- ☁️ **Cloud Platforms:** AWS | GCP
+- 🐳 **Containerization:** Docker | Kubernetes | Helm
 - ⚙️ **CI/CD Pipelines:** GitHub Actions | Jenkins | ArgoCD
 - 🛠️ **Infrastructure as Code:** Terraform
 - 📈 **Observability & Monitoring:** Prometheus | Grafana | EFK | OpenTelemetry
-- 🧰 **Scripting & Automation:** Python | Golang  
-- 🧠 **Networking & OS:** Linux | Advanced Networking  
+- 🧰 **Scripting & Automation:** Python | Golang
+- 🧠 **Networking & OS:** Linux | Advanced Networking
 - 🔌 **Service Mesh:** Istio
 
 ---
@@ -95,6 +95,7 @@ Here are some repositories I've contributed to:
 
 - 📧 **Email:** omarahmed9113@gmail.com  
 - 🔗 **LinkedIn:** [omar-ahmed-dt](https://www.linkedin.com/in/omar-ahmed-dt)
+- 📄 **CV:** [My-CV](https://drive.google.com/file/d/1fNwTdWRP11Yk2RYRJ-nWUUMJFFOq-yHJ/view?usp=sharing)
 
 ---
 
