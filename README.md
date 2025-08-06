@@ -12,6 +12,9 @@
   <a href="https://www.linkedin.com/in/omar-ahmed-dt" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://drive.google.com/file/d/1fNwTdWRP11Yk2RYRJ-nWUUMJFFOq-yHJ/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/CV-View--Resume-green?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
 </p>
 
 ---
