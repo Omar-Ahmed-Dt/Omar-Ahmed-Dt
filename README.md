@@ -1,24 +1,18 @@
-<h1 align="center">Hi 👋, I'm Omar Al-shishiny</h1>
-<h3 align="center">DevOps Engineer | Cloud | IAC | CI/CD | Kubernetes | GitOps | Observability</h3>
+<h1 align="center">Hi 👋, I'm Omar</h1>
+<h3 align="center">DevOps Engineer</h3>
 
 <p align="center">
   <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2023/01/05114244/DevOps-Challenges.gif" width="800" alt="DevOps gif" />
 </p>
 
 <p align="center">
-  <a href="mailto:omarahmed9113@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/omar-ahmed-dt" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@omarahmed9113" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://dev.to/omar_ahmed" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
-  <a href="https://drive.google.com/file/d/1fNwTdWRP11Yk2RYRJ-nWUUMJFFOq-yHJ/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/18wJS3ZFwYVF_tLRAOkCcnCiK9QAijLK8/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/CV-View--Resume-green?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
@@ -104,10 +98,6 @@ Here are some repositories I've contributed to:
 
 - 📧 **Email:** omarahmed9113@gmail.com  
 - 🔗 **LinkedIn:** [omar-ahmed-dt](https://www.linkedin.com/in/omar-ahmed-dt)
-- 📄 **CV:** [My-CV](https://drive.google.com/file/d/1fNwTdWRP11Yk2RYRJ-nWUUMJFFOq-yHJ/view?usp=sharing)
+- 📄 **CV:** [My-CV](https://drive.google.com/file/d/18wJS3ZFwYVF_tLRAOkCcnCiK9QAijLK8/view?usp=sharing)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omar-ahmed-dt&label=Profile%20views&color=blue&style=flat" alt="Profile Views" />
-</p>
