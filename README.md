@@ -71,6 +71,7 @@
 
 ### 🔖 Certifications
 
+- 🏅 **Google Professional Cloud Architect (PCA)**
 - 🏅 **Certified Kubernetes Administrator (CKA)**  
 - 🏅 **HashiCorp Certified: Terraform Associate**
 
@@ -101,3 +102,4 @@ Here are some repositories I've contributed to:
 - 📄 **CV:** [My-CV](https://drive.google.com/file/d/18wJS3ZFwYVF_tLRAOkCcnCiK9QAijLK8/view?usp=sharing)
 
 ---
+
